@@ -1,0 +1,672 @@
+Array
+(
+    [type] => 1
+    [name] => slave - signal 7, user - user38, order - 48
+    [broker] => mt4
+    [login] => mylogin
+    [password] => mypassword2
+    [server] => FXBOT-Demo
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 
+    [take_profit] => 
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal 7, user - user38, order - 49
+    [broker] => mt4
+    [login] => mylogin
+    [password] => mypassword
+    [server] => FXBOT-Demo
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal11, user - user38, order - 51
+    [broker] => mt4
+    [login] => mylogin
+    [password] => mypassword
+    [server] => FXBOT-Demo
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal11, user - user38, order - 52
+    [broker] => mt4
+    [login] => mylogin
+    [password] => mypassword
+    [server] => FXBOT-Demo
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal11, user - user38, order - 53
+    [broker] => mt4
+    [login] => mylogin3
+    [password] => mypassword3
+    [server] => FXBOT-Demo3
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal11, user - user38, order - 54
+    [broker] => mt4
+    [login] => mylogin4
+    [password] => mypassword4
+    [server] => FXBOT-Demo2
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal11, user - user38, order - 55
+    [broker] => mt4
+    [login] => mylogin
+    [password] => mypassword
+    [server] => FXBOT-Demo
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal14, user - user38, order - 56
+    [broker] => mt4
+    [login] => mylogin
+    [password] => mypassword
+    [server] => FXBOT-Demo
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal12, user - user38, order - 57
+    [broker] => mt4
+    [login] => mylogin2
+    [password] => mypassword2
+    [server] => FXBOT-Demo2
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal13, user - user38, order - 58
+    [broker] => mt4
+    [login] => mylogin3
+    [password] => mypassword3
+    [server] => FXBOT-Demo3
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal12, user - user37, order - 59
+    [broker] => mt4
+    [login] => 77777
+    [password] => 123456789
+    [server] => 45645456454
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal13, user - user37, order - 60
+    [broker] => mt4
+    [login] => mylogin5
+    [password] => mypassword5
+    [server] => FXBOT-Demo2
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal13, user - user37, order - 61
+    [broker] => mt4
+    [login] => 77777
+    [password] => 123456789
+    [server] => 45645456454
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal12, user - user37, order - 63
+    [broker] => mt4
+    [login] => 77777
+    [password] => 123456789
+    [server] => 45645456454
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal12, user - user37, order - 64
+    [broker] => mt4
+    [login] => mylogin7
+    [password] => mypassword2
+    [server] => FXBOT-Demo
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal13, user - user37, order - 65
+    [broker] => mt4
+    [login] => tototo
+    [password] => 123456789123
+    [server] => Demo-MT4
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal14, user - user38, order - 68
+    [broker] => mt4
+    [login] => mylogin8
+    [password] => mypassword2
+    [server] => FXBOT-Demo2
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal14, user - user38, order - 68
+    [broker] => mt4
+    [login] => mylogin8
+    [password] => mypassword2
+    [server] => FXBOT-Demo2
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal14, user - user38, order - 71
+    [broker] => mt4
+    [login] => mylogin9
+    [password] => mypassword2
+    [server] => FXBOT-Demo3
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal14, user - user38, order - 71
+    [broker] => mt4
+    [login] => mylogin9
+    [password] => mypassword2
+    [server] => FXBOT-Demo3
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal14, user - user38, order - 71
+    [broker] => mt4
+    [login] => mylogin9
+    [password] => mypassword2
+    [server] => FXBOT-Demo3
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal14, user - user38, order - 71
+    [broker] => mt4
+    [login] => mylogin9
+    [password] => mypassword2
+    [server] => FXBOT-Demo3
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal14, user - user38, order - 71
+    [broker] => mt4
+    [login] => mylogin9
+    [password] => mypassword2
+    [server] => FXBOT-Demo3
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal14, user - user38, order - 72
+    [broker] => mt4
+    [login] => user38
+    [password] => 123456789123
+    [server] => ForexTime-Standard
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal14, user - user38, order - 73
+    [broker] => mt4
+    [login] => user38
+    [password] => 123456
+    [server] => ForexTimeFXTM-Cent-demo
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal14, user - user38, order - 74
+    [broker] => mt4
+    [login] => mylogin2
+    [password] => mypassword4
+    [server] => FXBOT-Demo6
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal14, user - user38, order - 75
+    [broker] => mt4
+    [login] => mylogin3
+    [password] => mypassword2
+    [server] => FXBOT-Demo7
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)
+Array
+(
+    [type] => 1
+    [name] => slave - signal14, user - user39, order - 76
+    [broker] => mt4
+    [login] => mylogin3
+    [password] => mypassword4
+    [server] => FXBOT-Demo8
+    [environment] => Demo
+    [status] => 1
+    [group] => 
+    [subscription] => Array
+        (
+            [name] => Unlimited Pack (5)
+            [expiration_date] => 2017-07-15 17:00:34
+        )
+
+    [pending] => 0
+    [stop_loss] => 0
+    [take_profit] => 0
+    [comment] => 
+    [alert_email] => 0
+    [alert_sms] => 0
+)

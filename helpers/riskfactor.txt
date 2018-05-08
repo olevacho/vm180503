@@ -1,0 +1,165 @@
+Array
+(
+    [0] => Array
+        (
+            [slave_id] => 42544
+            [master_id] => 42531
+            [value] => 1
+            [type] => 1
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [slave_id] => 42552
+            [master_id] => 42550
+            [value] => 0
+            [type] => 0
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [slave_id] => 42554
+            [master_id] => 42546
+            [value] => 1
+            [type] => 1
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [slave_id] => 42556
+            [master_id] => 42548
+            [value] => 2
+            [type] => 4
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [slave_id] => 42557
+            [master_id] => 42546
+            [value] => 1
+            [type] => 7
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [slave_id] => 42559
+            [master_id] => 42548
+            [value] => 0
+            [type] => 5
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [slave_id] => 42566
+            [master_id] => 42546
+            [value] => 0
+            [type] => 6
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [slave_id] => 42568
+            [master_id] => 42548
+            [value] => 0
+            [type] => 1
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [slave_id] => 42575
+            [master_id] => 42550
+            [value] => 2
+            [type] => 6
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [slave_id] => 42579
+            [master_id] => 42550
+            [value] => 1
+            [type] => 0
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [slave_id] => 42613
+            [master_id] => 42550
+            [value] => 1
+            [type] => 1
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [slave_id] => 42615
+            [master_id] => 42550
+            [value] => 1
+            [type] => 1
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [slave_id] => 42618
+            [master_id] => 42550
+            [value] => 1
+            [type] => 1
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [slave_id] => 42626
+            [master_id] => 42550
+            [value] => 2
+            [type] => 7
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [slave_id] => 42627
+            [master_id] => 42550
+            [value] => 2
+            [type] => 7
+        )
+
+)

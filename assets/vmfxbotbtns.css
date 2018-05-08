@@ -1,0 +1,34 @@
+.addtocart-button{
+    width:90%;
+}
+.addtocart-button.fxbuybtn{
+    
+}
+.addtocart-button.fxrentbtn{
+    background-color: #32b331;
+    
+}
+
+.addtocart-button.fxdemobtn{
+    background-color: #7184ba;
+}
+#addtocartbtn1,#addtocartbtn3,#addtocartbtn6,#addtocartbtn12{
+    background-color: #32b331;
+    color: #fff;
+    border-color: #56a75a;
+}
+#addtocartbtndemo{
+    background-color: #7184ba;
+}
+.fx_product_price{
+    margin-top:5px;
+    margin-bottom:5px;
+    text-align: center;
+}
+
+
+
+@media only screen and (max-width: 760px)  {
+	
+	
+}
